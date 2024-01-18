@@ -1,4 +1,4 @@
-# AyePages™ 
+# AyeExplore™ 
 ### An initiative by AyeAI to simplify creating Github Pages based websites and blogs
 
 
