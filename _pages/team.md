@@ -11,7 +11,7 @@ feature_row:
     btn_label: "Profile"
 ---
 
-# Team Project Vikram
+# Mentors
 
 {% include feature_row %}
 
