@@ -21,8 +21,8 @@ Exclusions: Local logistics like lab visits, community events etc. as mentioned 
 
 Dislaimer: TnC apply and may be modified. It is advised that guardians introduce students to privacy and safety online. There must be parental oversight to ensure that students do not share any personal or other sensitive information.  
 
-Note: This is a temporary site for the course. The students' will be moved to AyeAI's regular LMS by March-April 2024 
-
 To open the form directly [click here](https://forms.gle/fQNa9L8smn5LBPHW8)
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfD-nanVl1U8rKldPz-3fhslgyIscyqYxC3H3Ns0yh9m76r3g/viewform?embedded=true" width="640" height="1131" frameborder="0" marginheight="0" marginwidth="0">
+
+Note: This is a temporary site for the course. The students' will be moved to AyeAI's regular LMS by March-April 2024 for a more streamlined experience with community interaction and research opportunities.
