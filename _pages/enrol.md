@@ -17,9 +17,9 @@ Inclusions: Weekly guidance session of 1 hour per week, and other course feature
 
 Materials: Students may need to purchase equipments and kits to help with the learning and project work. The material will need to be directlly procured from vendors.
 
-Exclusions: Local logistics like lab visits, community events etc. as mentioned in the manual are ooptional will need to be arranged for by the students and their guardians. AyeAI will only be able to provide information and guidance in this regard.
+Exclusions: Local logistics like lab visits, community events etc. as mentioned in the manual are optional will need to be arranged for by the students and their guardians. AyeAI will only be able to provide information and guidance in this regard.
 
-Dislaimer: TnC apply and may be modified. It is advised that guardians introduce students to privacy and safety online. There must be parental oversight to ensure that students do not share any personal or other sensitive information.  
+Dislaimer: TnC apply and may be modified. It is advised that guardians introduce students to privacy and safety online. There must be parental oversight for minors to ensure that students do not share any personal or other sensitive information.  
 
 To open the form directly [click here](https://forms.gle/fQNa9L8smn5LBPHW8)
 
