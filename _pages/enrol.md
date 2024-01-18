@@ -9,6 +9,8 @@ Email ayeai.ayeam@gmail.com
 
 Course fees: USD 100 per month (or equivalent in INR)
 
+Duration: Customized as per students' expectations
+
 Please scroll to the bottom of the page for the enrollment form.
 
 Inclusions: Weekly guidance session of 1 hour per week, and other course features as mentioned in the manual. Each student will be provided with a customized learning plan for exploring the domain and guidance through generative AI during the week. 
@@ -21,4 +23,6 @@ Dislaimer: TnC apply and may be modified. It is advised that guardians introduce
 
 Note: This is a temporary site for the course. The students' will be moved to AyeAI's regular LMS by March-April 2024 
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfD-nanVl1U8rKldPz-3fhslgyIscyqYxC3H3Ns0yh9m76r3g/viewform?embedded=true" width="640" height="1131" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+To open the form directly [click here](https://forms.gle/fQNa9L8smn5LBPHW8)
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfD-nanVl1U8rKldPz-3fhslgyIscyqYxC3H3Ns0yh9m76r3g/viewform?embedded=true" width="640" height="1131" frameborder="0" marginheight="0" marginwidth="0">
